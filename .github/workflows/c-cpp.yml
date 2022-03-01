@@ -16,5 +16,5 @@ jobs:
     - name: Build
       run: pwd && nm && ls-l
     - name: Run
-      run: ./Hello.C
+      run: ./Hello
  
